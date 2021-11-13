@@ -1,6 +1,7 @@
+-----------------------------------
 title: "First thing in the morning"
-date: 11-13-2021
-
+date: 2021-11-13
+-----------------------------------
 Before the kids wake up I'm already downstairs tapping on the 
 keyboard. Using a typing program to get familiar with the 
 keyboard and become faster. It has been a month since I 
